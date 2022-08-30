@@ -7,12 +7,12 @@ namespace MinhaCalculadoraDeSignos
 {
     public class Signo
     {
-        public string? Nome { get; set; }
-        public int DiaInicio { get; set; }
-        public int MesInicio { get; set; }
-        public int DiaFim { get; set; }
-        public int MesFim { get; set; }
-        public string? Caracteristicas { get; set; }
+        public string? nome { get; set; }
+        public int diaInicio { get; set; }
+        public int mesInicio { get; set; }
+        public int diaFim { get; set; }
+        public int mesFim { get; set; }
+        public string? caracteristicas { get; set; }
 
     }
 }
