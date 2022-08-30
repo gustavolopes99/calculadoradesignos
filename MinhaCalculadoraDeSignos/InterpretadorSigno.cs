@@ -73,7 +73,7 @@ namespace MinhaCalculadoraDeSignos
                 diaFim = 22,
                 mesFim = 8,
                 nome = "Leao",
-                caracteristicas = "Leao nos ensina a criatividade, a alegria, a espontaneidade, a vaidade, a autoestima para seguirmos agindo corretamente e nos orgulhando de nos mesmos.Nobreza e a palavra de Leao."
+                caracteristicas = "Leão nos ensina a criatividade, a alegria, a espontaneidade, a vaidade, a autoestima para seguirmos agindo corretamente e nos orgulhando de nos mesmos.Nobreza e a palavra de Leao."
             };
             signos[7] = new Signo
             {
@@ -82,7 +82,7 @@ namespace MinhaCalculadoraDeSignos
                 diaFim = 22,
                 mesFim = 9,
                 nome = "Virgem",
-                caracteristicas = "Virgem nos ensina a produtividade, o amor ao trabalho, o desejo de ser util,de servir,de ajudar a nos mesmos e as outras pessoas.Eficiencia e a palavra de Virgem."
+                caracteristicas = "Virgem nos ensina a produtividade, o amor ao trabalho, o desejo de ser util, de servir, de ajudar a nos mesmos e as outras pessoas.Eficiencia e a palavra de Virgem."
             };
             signos[8] = new Signo
             {
@@ -100,7 +100,7 @@ namespace MinhaCalculadoraDeSignos
                 diaFim = 21,
                 mesFim = 11,
                 nome = "Escorpiao",
-                caracteristicas = "Escorpiao nos ensina o silencio, a profundidade, o misterio, as emocoes,a possibilidade de nos despojar e nos transformar em pessoas melhores.Transcendencia e a palavra de Escorpiao."
+                caracteristicas = "Escorpiao nos ensina o silencio, a profundidade, o misterio, as emocoes, a possibilidade de nos despojar e nos transformar em pessoas melhores.Transcendencia e a palavra de Escorpiao."
             };
             signos[10] = new Signo
             {
@@ -109,7 +109,7 @@ namespace MinhaCalculadoraDeSignos
                 diaFim = 21,
                 mesFim = 12,
                 nome = "Sagitario",
-                caracteristicas = "Sagitario nos ensina a esperanca, a fe no futuro, a energia positiva,o interesse em ir muito mais longe para descobrir que o mundo e maior.Expansao a palavra de Sagitario."
+                caracteristicas = "Sagitario nos ensina a esperanca, a fe no futuro, a energia positiva, o interesse em ir muito mais longe para descobrir que o mundo e maior.Expansao a palavra de Sagitario."
             };
             signos[11] = new Signo
             {
@@ -118,7 +118,7 @@ namespace MinhaCalculadoraDeSignos
                 diaFim = 19,
                 mesFim = 1,
                 nome = "Capricornio",
-                caracteristicas = "Capricornio nos ensina a responsabilidade, a disciplina, a etica,a sabedoria obtida pela idade, o respeito aos mais velhos, a forca de vontade.Consciencia e a palavra de Capricornio."
+                caracteristicas = "Capricornio nos ensina a responsabilidade, a disciplina, a etica, a sabedoria obtida pela idade, o respeito aos mais velhos, a forca de vontade.Consciencia e a palavra de Capricornio."
             };
         }
         public Signo Interpretar(int dia, int mes)
